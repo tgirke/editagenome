@@ -1,0 +1,135 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: SECRETome
+  version:  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage/
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage/
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Summary
+      url: /
+      type: homepage
+      output: web, pdf
+
+  - title: Protocols
+    output: web, pdf
+    folderitems:
+
+    - title: Protocols
+      url: /mydoc/mydoc_protocols/
+      output: web, pdf
+  
+  - title: Outreach
+    output: web, pdf
+    folderitems:
+
+    - title: Genome Editing
+      url: /mydoc/mydoc_genomeediting/
+      output: web, pdf
+
+  - title: Data
+    audience: writers, designers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    folderitems:
+
+    - title: Data a
+      url: /mydoc/mydoc_data01/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+    
+    - title: Data b
+      url: /mydoc/mydoc_data02/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+
+  - title: Software
+    audience: writers, designers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    folderitems:
+
+    - title: Software 1
+      url: /mydoc/mydoc_software01/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+    
+    - title: Software 2
+      url: /mydoc/mydoc_software02/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+
+  - title: Publications
+    audience: writers, designers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    folderitems:
+
+    - title: Publications
+      url: /mydoc/mydoc_publications/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+
+  - title: Acknowledgement
+    audience: writers, designers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    folderitems:
+
+    - title: Acknowledgement
+      url: /mydoc/mydoc_acknowledgement/
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      output: web
+  
+  - title: Contacts
+    output: web, pdf
+    folderitems:
+
+    - title: Contacts
+      url: /mydoc/mydoc_contacts/
+      output: web, pdf
+
+

@@ -1,0 +1,27 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: PGRP
+      external_url: http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1546879
+    - title: Github Repo
+      external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Participants
+      folderitems:
+        - title: Wolf Frommer (Carnegie Institution for Science)
+          external_url: https://dpb.carnegiescience.edu/labs/frommer-lab 
+        - title: Julia Bailey-Serres (UC Riverside)
+          external_url: http://cepceb.ucr.edu/people/bailey-serres.html
+        - title: Bing Yang (Iowa State Univeristy)
+          external_url: http://www.gdcb.iastate.edu/faculty-and-research/faculty/bing-yang/
+        - title: Thomas Girke (UC Riverside)
+          external_url: http://girke.bioinformatics.ucr.edu/
+
+
+
