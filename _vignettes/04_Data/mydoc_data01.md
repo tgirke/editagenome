@@ -5,7 +5,7 @@ last_updated: 21-July-16
 
 ## Data x1
 
-... pushed from local
+...
 
 ## Data x2
 
