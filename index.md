@@ -1,5 +1,5 @@
 ---
-title: Plant Genome Editing Site
+title: Plant Genome Editing Outreach Site
 sidebar: 
 last_updated: Thu Jul 21 16:14:54 2016
 ---
