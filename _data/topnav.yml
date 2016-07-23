@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: EAG
+    - title: SEC
       external_url: http://plantsecretome.org/
     - title: Github Repo
       external_url: https://github.com/tgirke/editagenome/tree/gh-pages
