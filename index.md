@@ -7,7 +7,7 @@ last_updated: 'Thu Jul 21 16:14:54 2016'
 
 ## Objectives
 
-To be added ... test test
+To be added ...
 
 ## Background
 
