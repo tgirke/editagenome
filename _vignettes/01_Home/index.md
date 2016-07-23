@@ -10,7 +10,7 @@ published: true
 
 ## Objectives
 
-To be added ...ldfld
+To be added ...
 
 ## Background
 
