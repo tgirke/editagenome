@@ -1,7 +1,7 @@
 ---
 title: Plant Genome Editing Outreach Site
 sidebar: 
-summary: This website is about the genome editing outreach component of the [Plant SECRETome Project](http://plantsecretome.org/).
+summary: This website is about the genome editing outreach component of the <a href="http://plantsecretome.org">Plant SECRETome Project</a>.
 last_updated: Thu Jul 21 16:14:54 2016
 ---
 
