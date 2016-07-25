@@ -23,7 +23,7 @@ topnav_dropdowns:
     - title: Site Management
       folderitems:
         - title: Github Repo of this Site
-          external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
+          external_url: https://github.com/tgirke/editagenome/tree/gh-pages
         - title: Jekyll Doc Theme
           external_url: http://idratherbewriting.com/documentation-theme-jekyll/
         - title: GitHub Basics
